@@ -15,3 +15,5 @@ Nothing extraordinary. Just someone curious enough to keep digging deeper.
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@skyzee271_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yandeeznutzz/)
+
+![Metrics Intro](./Metrics/Metrics.plugin.intro.svg)
