@@ -19,6 +19,8 @@ Nothing extraordinary. Just someone curious enough to keep digging deeper.
 
 ## 📡 Project: SELF
 
+  ![Xyz](https://raw.githubusercontent.com/Xynziee/Xynziee/main/Assets/Xyz.gif)
+
 Every profile tells a story, even when the story isn't immediately obvious.
 
 Behind this username is someone who is still learning, experimenting, and trying to understand the world through technology and creativity. This profile isn't meant to represent a finished product or a perfect collection of achievements. Instead, it's a place where ideas can take shape, projects can evolve, and progress can be documented over time.
@@ -30,10 +32,6 @@ Not everything will work as expected. Not every idea will become something meani
 I want this space to remain a record of that process.
 
 As time passes, the projects may change, the skills may improve, and the direction may become clearer. What matters is that the signal continues, even when the destination is still unknown.
-
-
-  ![Xyz](https://raw.githubusercontent.com/Xynziee/Xynziee/main/Assets/Xyz.gif)
-
 
 <p align="center">
   <i>Build yourself. Be yourself. </i>
