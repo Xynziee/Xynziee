@@ -9,17 +9,24 @@ I'm a student from Indonesia who spends my time exploring technology, coding, ga
 
 Nothing extraordinary. Just someone curious enough to keep digging deeper.
 
-![GitHub Snake](https://raw.githubusercontent.com/Xynziee/Xynziee/output/github-contribution-grid-snake.svg)
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-learning-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-learning-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-learning-yellow?logo=javascript&logoColor=black)
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0d1117&quote_color=eeeeee&author_color=ff4444&accent_color=ff0000&border_color=ff0000&border_width=1" alt="Daily Quote" />
+
+</div>
+
+![GitHub Snake](https://raw.githubusercontent.com/Xynziee/Xynziee/output/github-contribution-grid-snake.svg)
 
 ## 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Xynziee&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xynziee&layout=compact&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Xynziee&color=red&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-learning-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-learning-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-learning-yellow?logo=javascript&logoColor=black)
 
 ## 🌏 Follow me
 
