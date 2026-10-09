@@ -17,7 +17,7 @@ Nothing extraordinary. Just someone curious enough to keep digging deeper.
 
 ![GitHub Snake](https://raw.githubusercontent.com/Xynziee/Xynziee/output/github-contribution-grid-snake.svg)
 
-## 📡 BEHIND THE SIGNAL
+## 📡 Project: SELF
 
 Every profile tells a story, even when the story isn't immediately obvious.
 
@@ -31,7 +31,9 @@ I want this space to remain a record of that process.
 
 As time passes, the projects may change, the skills may improve, and the direction may become clearer. What matters is that the signal continues, even when the destination is still unknown.
 
-This is only one point in a much longer journey.
+<p align="center">
+  <i>Build yourself. Be yourself. </i>
+</p>
 
 ## 📊 Stats
 
