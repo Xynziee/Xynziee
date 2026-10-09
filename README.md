@@ -15,6 +15,12 @@ Nothing extraordinary. Just someone curious enough to keep digging deeper.
 ![CSS3](https://img.shields.io/badge/CSS3-learning-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-learning-yellow?logo=javascript&logoColor=black)
 
+## 📊 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Xynziee&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xynziee&layout=compact&theme=dark)
+
 ## 🌏 Follow me
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@skyzee271_)
