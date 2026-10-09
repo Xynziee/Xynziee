@@ -11,6 +11,10 @@ Nothing extraordinary. Just someone curious enough to keep digging deeper.
 
 ![GitHub Snake](https://raw.githubusercontent.com/Xynziee/Xynziee/output/github-contribution-grid-snake.svg)
 
+![HTML5](https://img.shields.io/badge/HTML5-learning-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-learning-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-learning-yellow?logo=javascript&logoColor=black)
+
 ## 🌏 Follow me
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@skyzee271_)
