@@ -32,9 +32,7 @@ I want this space to remain a record of that process.
 As time passes, the projects may change, the skills may improve, and the direction may become clearer. What matters is that the signal continues, even when the destination is still unknown.
 
 
-<div align="center">
-  <img src="https://github.com/Xynziee/Xynziee/main/Assets/Xyz.gif" width="300">
-</div>
+  ![Xyz](https://raw.githubusercontent.com/Xynziee/Xynziee/main/Assets/Xyz.gif)
 
 
 <p align="center">
