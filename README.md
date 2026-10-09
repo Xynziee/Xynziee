@@ -17,6 +17,22 @@ Nothing extraordinary. Just someone curious enough to keep digging deeper.
 
 ![GitHub Snake](https://raw.githubusercontent.com/Xynziee/Xynziee/output/github-contribution-grid-snake.svg)
 
+## 📡 BEHIND THE SIGNAL
+
+Every profile tells a story, even when the story isn't immediately obvious.
+
+Behind this username is someone who is still learning, experimenting, and trying to understand the world through technology and creativity. This profile isn't meant to represent a finished product or a perfect collection of achievements. Instead, it's a place where ideas can take shape, projects can evolve, and progress can be documented over time.
+
+Some repositories may contain experiments. Others may represent lessons learned, ideas worth exploring, or projects that started with nothing more than curiosity.
+
+Not everything will work as expected. Not every idea will become something meaningful. But every attempt offers an opportunity to understand something that wasn't clear before.
+
+I want this space to remain a record of that process.
+
+As time passes, the projects may change, the skills may improve, and the direction may become clearer. What matters is that the signal continues, even when the destination is still unknown.
+
+This is only one point in a much longer journey.
+
 ## 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Xynziee&show_icons=true&theme=dark)
